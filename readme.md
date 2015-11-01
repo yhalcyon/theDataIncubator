@@ -4,7 +4,7 @@ author: "Yhalcyon"
 date: "Sunday, November 01, 2015"
 ---
 
-## My solutions for the Data Incubator fellow application
+## My solutions
 
 The files includes:
 
