@@ -11,6 +11,7 @@ The files includes:
 1. C code for simulating the random walker problem
 
 2. My independent project 
---* Perl crawler script to get the data
---* R script for analyzing the data and producing the pictures
---* Final data to be presented
+
+* Perl crawler script to get the data
+* R script for analyzing the data and producing the pictures
+* Final data to be presented
