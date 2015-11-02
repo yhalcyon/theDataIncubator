@@ -8,6 +8,6 @@ My works include the following steps:
 
 2. Further performing the data clean to get the information of the data scientists that are members in the above central. 
 
-3. Get the geographical distribution of the data scientists within the United States. 
+3. Getting the geographical distribution of the data scientists within the United States. 
 
 4. Projecting the distributions on the U.S. map to visualize the data
