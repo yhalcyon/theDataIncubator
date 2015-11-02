@@ -13,7 +13,7 @@ int main()
 
 	int MAX = 23345678;		//sample MAX times
 	int i;
-	int N = 100;
+	int N = 15;
 	int nSteps, nBlocks;
 	printf("input the number of steps the tourist will walk:\n");
 	scanf("%d",&nSteps);
@@ -32,8 +32,9 @@ int main()
 	prob = total_prob/N;
 	printf("the probability is: %.10lf\n",prob);
 
+
 // for Q1_question 5-6
-	N = 345234  
+	N = 345234;  
 	int steps = 0, total_steps=0;
 	long double averNsteps = 0.000;
 	for(i=0; i<N; ++i)
